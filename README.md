@@ -14,6 +14,7 @@ Compress, merge, split and convert PDFs, run OCR, redact, protect or unlock them
 | 🧰 Popular tools | [Compress PDF](https://smallpdf.us/compress-pdf/) · [Merge PDF](https://smallpdf.us/merge-pdf/) · [PDF to Word](https://smallpdf.us/pdf-to-word/) · [JPG to PDF](https://smallpdf.us/jpg-to-pdf/) · [Compress Image](https://smallpdf.us/compress-image/) · [HEIC to JPG](https://smallpdf.us/heic-to-jpg/) |
 | 💻 Source code | [smallpdf-us-app](https://github.com/mani-django09/smallpdf-us-app) (Next.js + Express) |
 | 🧩 Chrome extension | [smallpdf-chrome-extension](https://github.com/mani-django09/smallpdf-chrome-extension) |
+| 📚 Guides | [PDF & image tool guides](https://mani-django09.github.io/): compress, merge, convert, redact |
 
 ## Other projects
 
