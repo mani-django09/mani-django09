@@ -23,6 +23,7 @@ Compress, merge, split and convert PDFs, run OCR, redact, protect or unlock them
 - **[MP4 to MP3](https://mp4tomp3.live/)** — extract audio from a video in the browser
 - **[Keisan.world](https://keisan.world/)** — Japanese online calculators
 - **[Hesap Makinesi](https://hesap-makinesi.online/)** — Turkish online calculators
+- **[Threads Downloader](https://threadsdl.io/)** — save videos, photos and GIFs from public Threads posts ([source code](https://github.com/mani-django09/threads-video-downloader))
 - **[KlickPint](https://klickpint.online/)** — Pinterest video downloader
 
 ## Tech I use
